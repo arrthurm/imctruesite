@@ -1,0 +1,50 @@
+body {
+    background: rgb(162, 161, 163)
+}
+
+h1{
+    color: white;
+    border: 30px solid blue;
+    background: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: rgb(35, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    border: 1px solid;
+    border-style: solid;
+    border-left-color: blue;
+    border-right-color: blue;
+    border-color: blue;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: rgb(35, 33, 33);
+}
+<style>
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.topo{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.zoio{
+    background-color: blue;
+}
+</style>
